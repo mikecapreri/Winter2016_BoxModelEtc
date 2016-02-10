@@ -1,1 +1,31 @@
+#width1 {
+  width: 75%;
+}
 
+#width2 {
+  width: 100px;
+}
+
+#container1 {
+  width: 50%;
+}
+
+#inside1 {
+  width: 50%;
+}
+
+#container2 {
+  width: 300px;
+}
+
+#inside2 {
+  width: 75%;
+}
+
+#container3 {
+  width: 200px;
+}
+
+#inside3 {
+  width: 300px;
+}
